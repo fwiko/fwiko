@@ -10,6 +10,7 @@
 - <p><b>Social Scanner</b> - A web application created to check if usernames are available on multiple different websites/services.</p>
 - <p><b>Progress Checker</b> - A web application created to show the percentage progress of the current year, month, week, day & hour.</p>
 - <p><b>NexusRP</b> - Contributed to the development of <a href='https://nexusgta.com' target="_blank">NexusRP</a> a FiveM server created by <a href='https://nexushub.io' target="_blank">NexusHub</a>.</p>
+- <p><b>NEXUS Scrim Bot</b> - A discord bot used to create/host and manage 4v4 scrims.</p>
 
 - ✨ See more at [https://raffsimms.com](https://raffsimms.com)
 
