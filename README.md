@@ -22,6 +22,15 @@
 </p>
 
 
+
+
+<h2 align="center">Take A Look At</h2>
+<p align="center">
+  
+- [Social Scanner](https://checker.raffsimms.com) An application written to check username availability on a variety of platforms
+- [Social Scanner](https://github.com/fwiko/busty) A web-directory scanner written in python
+
+
 <p align="center">
   Contact Me: <a href="https://raffsimms.com/contact">Contact Form</a>
 </p>
