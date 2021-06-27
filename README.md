@@ -27,7 +27,7 @@
   
 [Social Scanner](https://checker.raffsimms.com) An application written to check username availability on a variety of platforms  
 [Busty](https://github.com/fwiko/busty) A web-directory scanner written in python  
-[Tree Feller](https://github.com/fwiko/tree-feller) A Minecraft applying implementing a feature to save players time  
+[Tree Feller](https://github.com/fwiko/tree-feller) A Minecraft plugin applying implementing a feature to save players time  
  
  
    
