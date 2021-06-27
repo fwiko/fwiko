@@ -24,20 +24,17 @@
 
 
 <h2 align="left">Take A Look At</h2>
-<p align="left">
   
-  [Social Scanner](https://checker.raffsimms.com) An application written to check username availability on a variety of platforms
-  
-  [Busty](https://github.com/fwiko/busty) A web-directory scanner written in python
-  
-  [Tree Feller](https://github.com/fwiko/tree-feller) A Minecraft applying implementing a feature to save players time
-
-</p>
-
-<p align="center">
+[Social Scanner](https://checker.raffsimms.com) An application written to check username availability on a variety of platforms  
+[Busty](https://github.com/fwiko/busty) A web-directory scanner written in python  
+[Tree Feller](https://github.com/fwiko/tree-feller) A Minecraft applying implementing a feature to save players time  
+ 
+ 
+   
+<p align="right">
   Contact Me: <a href="https://raffsimms.com/contact">Contact Form</a>
 </p>
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=fwiko&label=Profile%20views&color=0e75b6&style=flat" alt="fwiko" /> </p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=fwiko&label=Profile%20views&color=0e75b6&style=flat" alt="fwiko" /> </p>
 
