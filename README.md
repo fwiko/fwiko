@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raff</h1>
-<h3 align="left">I'm a computing student in the UK currently studying _.</h3>
-
-
-
- 
-  
-  
-
+<h3 align="left">I am a British student currently studying a Bachelors of Science in Computer Systems & Cyber Security.</h3>
 
 <h2 align="left">I have experience using</h2>
 <p align="left">
@@ -20,21 +13,16 @@
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-
-
-
 <h2 align="left">Take A Look At</h2>
   
 [Social Scanner](https://checker.raffsimms.com) An application written to check username availability on a variety of platforms  
 [Busty](https://github.com/fwiko/busty) A web-directory scanner written in python  
 [Tree Feller](https://github.com/fwiko/tree-feller) A Minecraft plugin applying implementing a feature to save players time  
  
- 
    
 <p align="right">
   Contact Me: <a href="https://raffsimms.com/contact">Contact Form</a>
 </p>
-
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=fwiko&label=Profile%20views&color=0e75b6&style=flat" alt="fwiko" /> </p>
 
