@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Raff</h1>
-<h3 align="left">I am a British student currently studying a Bachelors of Science in Computer Systems & Cyber Security.</h3>
+<h1 align="center">Hi 👋, I'm <b>Raff</b></h1>
+<h3 align="center">I am a British student currently studying a <b>Bachelors of Science in Computer Systems & Cyber Security</b>.</h3>
 
 <h2 align="left">I have experience using</h2>
 <p align="left">
