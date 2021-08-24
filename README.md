@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <b>Raff</b></h1>
-<h3 align="center">I am a British student currently studying a <b>Bachelors of Science in Computer Systems & Cyber Security</b>.</h3>
+<h3 align="center">I am a British student about to study a <b>Bachelors of Science in Computer Systems & Cyber Security</b>.</h3>
 
 <h2 align="left">I have experience using</h2>
 <p align="left">
@@ -18,6 +18,7 @@
 [Social Scanner](https://checker.raffsimms.com) An application written to check username availability on a variety of platforms  
 [Busty](https://github.com/fwiko/busty) A web-directory scanner written in python  
 [Tree Feller](https://github.com/fwiko/tree-feller) A Minecraft plugin applying implementing a feature to save players time  
+[Bind Keylogger](https://github.com/fwiko/bind-keylogger) A client-server keylogger where keylogger data is sent to the server 
  
    
 <p align="right">
