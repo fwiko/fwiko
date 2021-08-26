@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm <b>Raff</b></h1>
-<h3 align="center">I am a British student about to study a <b>Bachelors of Science in Computer Systems & Cyber Security</b>.</h3>
+<h3 align="center">I am a British student with an intrest in computing and a range of creative areas.</h3>
+
+<h2 align="left">Education</h2>
+Level 3 BTEC National Extended Diploma in Computing & Cyber Security - (2019-2021) <br>
+Bachelor of Science (Hons) Computer Systems (Cyber Security) - (2021-Present)
 
 <h2 align="left">I have experience using</h2>
 <p align="left">
