@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <b>Raff</b></h1>
-<h3 align="center">I am a British student with an intrest in computing and a range of creative areas.</h3>
+<h3 align="center">I am a British student with an interest in computing and a range of creative areas.</h3>
 
 <h2 align="left">Education</h2>
 <b>Level 3 BTEC National Extended Diploma in Computing & Cyber Security</b> - (2019-2021) <br>
