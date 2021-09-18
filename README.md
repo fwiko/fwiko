@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm <b>Raff</b></h1>
-<h3 align="center">I am a British student with an interest in computing and a range of creative areas.</h3>
-
-<h2 align="left">Education</h2>
-<b>Level 3 BTEC National Extended Diploma in Computing & Cyber Security</b> - (2019-2021) <br>
-<b>Bachelor of Science (Hons) Computer Systems (Cyber Security)</b> - (2021-Present)
+<h1 align="left">Hi 👋, I'm <b>Raff</b></h1>
+<h3 align="left">I am a first-year student studying a Bachelor of Science (Hons) in Computer Systems (Cyber Security) at Nottingham Trent University</h3>
 
 <h2 align="left">I have experience using</h2>
 <p align="left">
@@ -19,15 +15,15 @@
 
 <h2 align="left">Take A Look At</h2>
   
-[Social Scanner](https://checker.raffsimms.com) An application written to check username availability on a variety of platforms  
-[Busty](https://github.com/fwiko/busty) A web-directory scanner written in python  
-[Tree Feller](https://github.com/fwiko/tree-feller) A Minecraft plugin applying implementing a feature to save players time  
-[Bind Keylogger](https://github.com/fwiko/bind-keylogger) A client-server keylogger where keylogger data is sent to the server 
+[📡 Social Scanner](https://checker.raffsimms.com) An application written to check username availability on a variety of platforms  
+[🔓 Busty](https://github.com/fwiko/busty) A web-directory scanner written in python  
+[🌳 Tree Feller](https://github.com/fwiko/tree-feller) A Minecraft plugin applying implementing a feature to save players time  
+[⌨️ Bind Keylogger](https://github.com/fwiko/bind-keylogger) A client-server keylogger where keylogger data is sent to the server 
  
-   
-<p align="right">
-  Contact Me: <a href="https://raffsimms.com/contact">Contact Form</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwiko&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="left">
+  Contact Me: <a href="mailto:raff@raffsimms.com">raff@raffsimms.com</a>
 </p>
-
-<p align="right"><img src="https://komarev.com/ghpvc/?username=fwiko&label=Profile%20views&color=0e75b6&style=flat" alt="fwiko" /> </p>
-
