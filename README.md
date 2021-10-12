@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm <b>Raff</b></h1>
-<h3 align="left">I am an 18 year old first-year student studying a Bachelor of Science (Hons) in Computer Systems (Cyber Security) at Nottingham Trent University</h3>
+<h3 align="left">I am a first-year university student studying a Bachelor of Science (Hons) in Cyber Security</h3>
 
 <h2 align="left">I have experience using</h2>
 <p align="left">
