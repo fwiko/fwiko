@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <b>Raff</b></h1>
-<h3 align="center">I am a first-year university student studying a Bachelor of Science (Hons) in Cyber Security</h3>
+<h3 align="center">I am a first-year university student studying a Bachelor of Science in Cyber Security</h3>
 
 <h2 align="center">I have experience using</h2>
 <p align="center">
