@@ -20,8 +20,6 @@
   <br><br>
   <a href="https://github.com/fwiko/bind-keylogger">⌨️ Bind Keylogger</a><br><span>A client-server keylogger where keylogger data is sent to the server</span>
   <br><br>
-  <a href="https://github.com/fwiko/busty">🔓 Busty</a><br><span>A web-directory scanner written in python</span>
-  <br><br><br>
 </p>
 
 <p align="center">
