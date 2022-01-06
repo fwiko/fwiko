@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://checker.raffsimms.com">📡 Social Scanner</a><br><span>An application written to check username availability on a variety of online platforms</span>
   <br><br>
-  <a href="https://github.com/fwiko/bind-keylogger">⌨️ Bind Keylogger</a><br><span>A client-server keylogger where keylogger data is sent to the server</span>
+  <a href="https://github.com/fwiko/bind-keylogger">⌨️ Bind Keylogger</a><br><span>A simple keylogger application utilising socket connections within python</span>
   <br><br>
 </p>
 
