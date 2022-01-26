@@ -11,5 +11,5 @@ I'm an undergraduate university student from the United Kingdom studying a **Bac
 ## **Contact me**
 
 - Email: [raff@raffsimms.com](mailto:raff@raffsimms.com)
-- Contact Form: [raffsimms.com](https://raffsimms.com/contact/)
+- Contact Form: [raffsimms.com](https://raffsimms.com/contact)
 - LinkedIn: [@raffsimms](https://www.linkedin.com/in/raffsimms/)
