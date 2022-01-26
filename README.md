@@ -1,3 +1,5 @@
+![](https://didntlaugh.com/files/raff_banner1.png)
+
 ## Hello 👋, I'm **Rafferty**
 
 I'm an undergraduate university student from the United Kingdom studying a **Bachelor of Science in Cyber Security**
