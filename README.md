@@ -1,9 +1,6 @@
-![](https://didntlaugh.com/files/raff_banner1.png)
-
 ## Hello 👋, I'm **Rafferty**
 
 I'm an undergraduate university student from the United Kingdom studying a **Bachelor of Science in Cyber Security**
-
 
 ## **My projects**
 - 📡 [Social Scanner](https://checker.raffsimms.com/) - A web application created to check the availability of usernames on a variety of online platforms
