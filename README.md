@@ -1,17 +1,8 @@
-<h1 align="center">Hi 👋, I'm <b>Raff</b></h1>
-<h3 align="center">I am an undergraduate student currently studying a Bachelor of Science in Cyber Security.</h3>
+Hello 👋, I'm **Rafferty**
 
+I'm an undergraduate university student from the United Kingdom studying a **Bachelor of Science in Cyber Security**
 
-
-<h2 align="center">Take A Look At</h2>
-  
-<p align="center">
-  <a href="https://checker.raffsimms.com">📡 Social Scanner</a><br><span>An application written to check username availability on a variety of online platforms</span>
-  <br><br>
-  <a href="https://github.com/fwiko/bind-keylogger">⌨️ Bind Keylogger</a><br><span>A simple keylogger application utilising socket connections within python</span>
-  <br><br>
-</p>
-
-<p align="center">
-  Contact Me Here: <a href="mailto:raff@raffsimms.com">raff@raffsimms.com</a>
-</p>
+**Take a look at some of my projects**
+- 📡 [Social Scanner](https://checker.raffsimms.com/) - A web application created to check the availability of usernames on a variety of online platforms
+- ⌨️ [Bind Keylogger](https://github.com/fwiko/bind-keylogger/) - A simple keylogger utilising socket connections within python to send and store keylog data
+- ⏰ [Time Progression](https://github.com/fwiko/time-progression) - An API allowing the retreival of data about how far through different units of time we are
