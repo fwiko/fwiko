@@ -1,8 +1,8 @@
 ## Hello 👋, I'm **Rafferty**
 
-I'm an undergraduate student currently studying a **Bachelor of Science (Hons) in Cyber Security**. I have interests in many computing fields including software engineering, computer hardware, and security.
+I'm an undergraduate student from the United Kingdom, currently studying a Bachelor of Science (Hons) in Cyber Security. After developing a passion for computing at a young age, I now have a strong interest in a variety of computing fields including software engineering, computer hardware, networking, and security.
 
-In my free time i like to work on a number of personal projects that help expand my knowledge in many areas of computing. You can find some of my favourites below.
+I have dedicated a lot of my free time to learning and expanding my knowledge in many areas of computing, from completing Cyber Security challenges and researching interesting topics, to developing my own personal projects. A few of which are listed below.
 
 ## **My projects**
 
