@@ -13,5 +13,4 @@ I have dedicated a lot of my free time to learning and expanding my knowledge in
 ## **Contact me**
 
 - Email: [raff@raffsimms.com](mailto:raff@raffsimms.com)
-- Contact Form: [raffsimms.com](https://raffsimms.com/contact)
 - LinkedIn: [@raffsimms](https://www.linkedin.com/in/raffsimms/)
